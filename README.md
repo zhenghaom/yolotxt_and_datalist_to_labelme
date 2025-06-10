@@ -1,2 +1,3 @@
 # yolotxt_and_datalist_to_labelme
-yolotxt_and_datalist_to_labelme
+yolo格式的txt文件转成datalist格式，最后转换为labelme格式
+三个脚本中的合并脚本只是我个人所遇项目的需要，不用也许
